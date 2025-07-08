@@ -19,8 +19,10 @@ Environment: Local (by Flywheel)
 
 ## Status: In Progress 
 
-Preview
+### Preview
 ![image](https://github.com/user-attachments/assets/eb0bb016-3b2c-4309-b045-1f6000d2144f)
+![image](https://github.com/user-attachments/assets/d062aa40-49d4-4b8f-91e8-3a4b4a1c680d)
+
 
 
 """""""""""""""""""""fr-FR"""""""""""""""""""""""""""""""""""
@@ -44,6 +46,8 @@ Environnement : Local (by Flywheel)
 
 ## Statut : En cours 
 
-Aperçu
+### Aperçu
 ![image](https://github.com/user-attachments/assets/936dd48b-5c88-4207-a839-43da8ffed016)
+![image](https://github.com/user-attachments/assets/5535118e-8fd5-4c41-bbcc-66691146f990)
+
 
