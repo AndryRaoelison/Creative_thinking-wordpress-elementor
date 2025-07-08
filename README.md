@@ -7,15 +7,15 @@ This project is a landing page created with WordPress and Elementor for a fictio
 The goal of the project is to practice creating attractive and responsive web interfaces using WordPress and Elementor without writing custom PHP code.
 
 ## Tech Stack
-CMS: WordPress
-Builder: Elementor (Free version)
-Environment: Local (by Flywheel)
+- CMS: WordPress
+- Builder: Elementor (Free version)
+- Environment: Local (by Flywheel)
 
 ## Main Features
- Hero section with strong call to action
- Responsive layout (desktop and mobile)
- Visual hierarchy and user flow optimized for marketing
- More sections coming soon (Services, Testimonials, Contact…)
+- Hero section with strong call to action
+- Responsive layout (desktop and mobile)
+- Visual hierarchy and user flow optimized for marketing
+- More sections coming soon (Services, Testimonials, Contact…)
 
 ## Status: In Progress 
 
@@ -34,20 +34,23 @@ Ce projet est une landing page réalisée avec WordPress et Elementor pour une a
 L’objectif est de s’exercer à créer une interface web attractive et responsive à l’aide de WordPress et Elementor, sans développement PHP personnalisé.
 
 ## Tech Stack
-CMS : WordPress
-Builder : Elementor (version gratuite)
-Environnement : Local (by Flywheel)
+- CMS : WordPress
+- Builder : Elementor (version gratuite)
+- Environnement : Local (by Flywheel)
 
 ## Fonctionnalités principales
- Section Hero avec un appel à l'action fort
- Design responsive (desktop et mobile)
- Hiérarchie visuelle et parcours utilisateur optimisé pour le marketing
- Autres sections à venir (Services, Témoignages, Contact…)
+- Section Hero avec un appel à l'action fort
+- Design responsive (desktop et mobile)
+- Hiérarchie visuelle et parcours utilisateur optimisé pour le marketing
+- Autres sections à venir (Services, Témoignages, Contact…)
 
 ## Statut : En cours 
 
 ### Aperçu
+<p align="center">
 ![image](https://github.com/user-attachments/assets/936dd48b-5c88-4207-a839-43da8ffed016)
 ![image](https://github.com/user-attachments/assets/5535118e-8fd5-4c41-bbcc-66691146f990)
+</p>
+
 
 
