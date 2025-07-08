@@ -1,5 +1,6 @@
 """"""""""""""""""""en-US"""""""""""""""""""""""""""""""""""
-#Landing Page - Digital Marketing Agency “Design Thinking"
+
+# Landing Page - Digital Marketing Agency “Design Thinking"
 
 This project is a landing page created with WordPress and Elementor for a fictional digital marketing agency named “Design Thinking.” It is currently under construction and aims to showcase clean design, modern layout principles, and conversion-focused content.
 
@@ -16,31 +17,32 @@ Environment: Local (by Flywheel)
  Visual hierarchy and user flow optimized for marketing
  More sections coming soon (Services, Testimonials, Contact…)
 
-Status: In Progress 
+## Status: In Progress 
 
 Preview
 ![image](https://github.com/user-attachments/assets/eb0bb016-3b2c-4309-b045-1f6000d2144f)
 
 
 """""""""""""""""""""fr-FR"""""""""""""""""""""""""""""""""""
-#Landing Page – Agence de Marketing Digital “Design Thinking”
+
+# Landing Page – Agence de Marketing Digital “Design Thinking”
 
 Ce projet est une landing page réalisée avec WordPress et Elementor pour une agence fictive nommée “Design Thinking.” Il est actuellement en cours de construction et vise à démontrer un design épuré, une structure moderne, et un contenu orienté conversion.
 
 L’objectif est de s’exercer à créer une interface web attractive et responsive à l’aide de WordPress et Elementor, sans développement PHP personnalisé.
 
-##Tech Stack
+## Tech Stack
 CMS : WordPress
 Builder : Elementor (version gratuite)
 Environnement : Local (by Flywheel)
 
-Fonctionnalités principales
+## Fonctionnalités principales
  Section Hero avec un appel à l'action fort
  Design responsive (desktop et mobile)
  Hiérarchie visuelle et parcours utilisateur optimisé pour le marketing
  Autres sections à venir (Services, Témoignages, Contact…)
 
-Statut : En cours 
+## Statut : En cours 
 
 Aperçu
 ![image](https://github.com/user-attachments/assets/936dd48b-5c88-4207-a839-43da8ffed016)
