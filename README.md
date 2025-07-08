@@ -20,8 +20,11 @@ The goal of the project is to practice creating attractive and responsive web in
 ## Status: In Progress 
 
 ### Preview
-![image](https://github.com/user-attachments/assets/eb0bb016-3b2c-4309-b045-1f6000d2144f)
-![image](https://github.com/user-attachments/assets/d062aa40-49d4-4b8f-91e8-3a4b4a1c680d)
+#### Large Screen :
+<img src="https://github.com/user-attachments/assets/936dd48b-5c88-4207-a839-43da8ffed016" />
+
+#### Mobile Screen :
+<img src="https://github.com/user-attachments/assets/5535118e-8fd5-4c41-bbcc-66691146f990"  />
 
 
 
@@ -50,5 +53,5 @@ L’objectif est de s’exercer à créer une interface web attractive et respon
 #### Ecran large :
 <img src="https://github.com/user-attachments/assets/936dd48b-5c88-4207-a839-43da8ffed016" />
 
-#### Ecran large :
+#### Ecran Mobile :
 <img src="https://github.com/user-attachments/assets/5535118e-8fd5-4c41-bbcc-66691146f990"  />
