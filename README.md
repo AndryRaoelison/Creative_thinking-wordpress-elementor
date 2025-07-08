@@ -47,10 +47,10 @@ L’objectif est de s’exercer à créer une interface web attractive et respon
 ## Statut : En cours 
 
 ### Aperçu
-<p align="center">
+<div align="center">
 ![image](https://github.com/user-attachments/assets/936dd48b-5c88-4207-a839-43da8ffed016)
 ![image](https://github.com/user-attachments/assets/5535118e-8fd5-4c41-bbcc-66691146f990)
-</p>
+</div>
 
 
 
